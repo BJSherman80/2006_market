@@ -60,6 +60,8 @@ class MarketTest < Minitest::Test
     assert_equal 29.75, vendor1.potential_revenue
   end
 
+  
+
 
 
 

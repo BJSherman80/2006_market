@@ -27,6 +27,10 @@ class Market
     end
   end
 
+  def total_inventory
+    
+  end
+
 
 
 end
